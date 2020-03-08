@@ -4,9 +4,9 @@
 
 > A baseline installation of a Linux distribution on a virtual machine and prepare it to host web applications, to include installing updates, securing it from a number of attack vectors and installing/configuring web and database servers
 
-* IP Address: 13.127.42.235
+* IP Address: 13.235.115.206
 * SSH Port: 2200
-* URL: `http://13.127.42.235`
+* URL: `http://13.235.115.206`
 
 ### 1. Update all packages
 
