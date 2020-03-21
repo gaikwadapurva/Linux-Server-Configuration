@@ -67,7 +67,7 @@ Read the contents of the 'keyPair.pub' file in order to copy them and move back 
 $ cat grader.pub
 ```
 
-In the instance (accessed through the browser console), switch into the grader user-- ```$ sudo su - grader``` --and create a subdirectory called '.ssh' and set the owner to the grader user and set the permission to read write and execute only to the grader user.
+In the instance (accessed through the browser console), switch into the grader user using the command ```$ sudo su - grader``` and create a subdirectory called '.ssh' and set the owner to the grader user and set the permission to read write and execute only to the grader user.
 
 ```linux
 $ mkdir .ssh
@@ -172,8 +172,8 @@ $ cd /var/www
 
 #### 11. Install psycopg2 and python
 
-For psycopg2: ```$ sudo apt-get install python-psycopg2```
-For python: ```$ sudo apt-get install python```
+* For psycopg2: ```$ sudo apt-get install python-psycopg2```
+* For python: ```$ sudo apt-get install python```
 
 
 #### 12. Clone the catalog app
